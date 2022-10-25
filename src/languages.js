@@ -173,22 +173,22 @@ export let translations = {
     nl: 'GAME 6',
   },
   game1VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%201.mp3?alt=media&token=81a08a9f-d4e8-45c1-93c8-07aad7559b86',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Duurzame%20Inzetbaarheid%2F1.mp3?alt=media&token=d93347c5-cd18-416c-9e1d-6c4623ff0692',
   },
   game2VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%202.mp3?alt=media&token=0d0e3815-afe4-495c-a148-1662c4aa7601',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Duurzame%20Inzetbaarheid%2F2.mp3?alt=media&token=cc969bf3-3960-419d-ba03-c30243b9c4ff',
   },
   game3VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%203.mp3?alt=media&token=088f48cd-5ff0-4442-a75b-5c7e271e2deb',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Duurzame%20Inzetbaarheid%2F3.mp3?alt=media&token=b452f5fd-a775-439b-a745-b4cb8aeed554',
   },
   game4VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%204.mp3?alt=media&token=bf972a90-58a3-4213-91e2-6015f1caf59f',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Duurzame%20Inzetbaarheid%2F4.mp3?alt=media&token=f28698b4-617a-42dd-be0e-c851ce663b80',
   },
   game5VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%205.mp3?alt=media&token=1b3e24ef-9f53-4da9-bf10-e4e1b6b6bbe8',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Duurzame%20Inzetbaarheid%2F5.mp3?alt=media&token=45e2f080-e096-4c00-b4e4-fb0fb85dce4d',
   },
   game6VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/De%20Verdwenen%20CEO%2FDeel%206.mp3?alt=media&token=84f8471e-3906-41da-b884-c749bfe9da18',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Duurzame%20Inzetbaarheid%2F6.mp3?alt=media&token=a16f6ef3-8a3c-44ea-aa63-faa3603482fc',
   },
   gameeindeVideoUrl: {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Nederlands%20klein%2Fspel_6%20(720p).mp4?alt=media&token=f59585d7-e76d-4a8a-9585-e4b3aa974d71',
