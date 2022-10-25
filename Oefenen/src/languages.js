@@ -2,13 +2,13 @@ import { with_translation } from './utils/use';
 
 export let translations = {
   'The Box': {
-    nl: 'De Verdwenen CEO',
+    nl: 'Duurzame Inzetbaarheid',
   },
   'The box of': {
     nl: 'De kist van',
   },
   '#workhardplaysmart': {
-    nl: 'De Verdwenen CEO',
+    nl: 'Duurzame Inzetbaarheid',
   },
   Enter: {
     nl: 'Verder',

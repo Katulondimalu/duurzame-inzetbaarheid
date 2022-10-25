@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 
 const NoInternet = () => {
   useEffect(() => {
-    document.title = 'De Verdwenen CEO';
+    document.title = 'Duurzame Inzetbaarheid';
   });
 
   return <div></div>;
