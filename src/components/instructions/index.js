@@ -26,7 +26,7 @@ const Instructions = ({ onNext }) => {
       <Whitespace height={16} />
       <InstructionHeader>Start Instructies</InstructionHeader>
       <InstructionContent>
-        Je gaat je CEO zoeken door samen met je team een aantal inventieve puzzels op te lossen. 
+        Je gaat op zoek naar het probleem van je directeur samen met je team een aantal inventieve puzzels op te lossen. 
         Daarvoor heb ik een aantal stappen om je op weg te helpen.
         </InstructionContent>
       <div
@@ -58,7 +58,7 @@ const Instructions = ({ onNext }) => {
         <InstructionStep>Stap 4.</InstructionStep>
         <InstructionContent>
         Forceer niks, hou alles goed bij elkaar en speel goed samen. Dan ben je een stap dichter bij 
-        het redden van moeder aarde.
+        het redden van je directeur.
         </InstructionContent>
         <InstructionContent>
           <img src={assets.images.common?.StartInstruction} alt='' />
