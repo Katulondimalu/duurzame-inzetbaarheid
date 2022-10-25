@@ -26,7 +26,7 @@ const Instructions = ({ onNext }) => {
       <Whitespace height={16} />
       <InstructionHeader>Start Instructies</InstructionHeader>
       <InstructionContent>
-        Je gaat op zoek naar het probleem van je directeur samen met je team een aantal inventieve puzzels op te lossen. 
+        Je gaat op zoek naar het probleem van je directeur door samen met je team een aantal inventieve puzzels op te lossen. 
         Daarvoor heb ik een aantal stappen om je op weg te helpen.
         </InstructionContent>
       <div
