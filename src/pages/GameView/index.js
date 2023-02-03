@@ -311,7 +311,7 @@ const GameView = () => {
                     (room.hints_penalty ?? 0) * 60,
                 });
               }}
-              {t('Ik trok het echt even allemaal niet meer hoor. Moest even ontvluchten van de wereld. Die corona tijden doen soms gekke dingen met je. Maar dank jullie wel dat jullie zo veel moeite hebben gedaan om mij te vinden. Jullie weten niet hoeveel dat wel niet voor mij betekent. Nu kunnen we er samen met zijn allen met goede moed weer tegenaan. Nogmaals bedankt en jullie zijn de beste!')}
+              {t('gameeindeVideoUrl')}
             />
           )}
           {step === 15 && (
