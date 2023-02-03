@@ -191,7 +191,7 @@ export let translations = {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Duurzame%20Inzetbaarheid%2F6.mp3?alt=media&token=a16f6ef3-8a3c-44ea-aa63-faa3603482fc',
   },
   gameeindeVideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Nederlands%20klein%2Fspel_6%20(720p).mp4?alt=media&token=f59585d7-e76d-4a8a-9585-e4b3aa974d71',
+    nl: ' Ik trok het echt even allemaal niet meer hoor. Moest even ontvluchten van de wereld. Die corona tijden doen soms gekke dingen met je. Maar dank jullie wel dat jullie zo veel moeite hebben gedaan om mij te vinden. Jullie weten niet hoeveel dat wel niet voor mij betekent. Nu kunnen we er samen met z’n allen met goede moed weer tegenaan. Nogmaals bedankt en jullie zijn de beste!',
   },
   'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Filmpjes%20Engels%2FSpel%205%20-%20ondertiteld%20-%20Engels.mp4?alt=media&token=f88703aa-d7e2-4a3c-8a01-2a0bf6a9345b':
     {
